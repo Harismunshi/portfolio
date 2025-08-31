@@ -878,8 +878,7 @@ const CreativePortfolio = () => {
       <footer className="py-8 px-6 border-t border-gray-800">
         <div className="max-w-6xl mx-auto text-center">
           <p className="text-gray-400">
-            © 2024 BCA Student Portfolio - KSV University, Gandhinagar. Built
-            with passion for modern web technologies.
+            © 2024 Munshi Harisahmed | Frontend Developer | React js | Node.js | JavaScript | Tailwind
           </p>
         </div>
       </footer>
